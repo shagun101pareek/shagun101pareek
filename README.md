@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun101pareek&label=Profile%20views&color=0e75b6&style=flat" alt="shagun101pareek" /> </p>
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React, Next.js, MongoDB, Express.js, PostgreSQL**
 
 - 📫 How to reach me **shagunpareek2421@gmail.com**
 
