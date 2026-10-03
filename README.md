@@ -68,12 +68,10 @@ My sweet spot is **frontend-heavy full-stack development** — building polished
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shagun101pareek&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shagun101pareek&theme=react-dark"
     width="95%"
   />
 </p>
-
----
 
 ## GitHub Streak
 
