@@ -98,21 +98,3 @@ My sweet spot is **frontend-heavy full-stack development** — building polished
 </p>
 
 ---
-
-## Currently Building
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Building products that sit at the intersection of     │
-│                                                         │
-│        Design  ×  Engineering  ×  AI                    │
-│                                                         │
-│   Currently exploring:                                  │
-│                                                         │
-│   → AI-powered developer tools                           │
-│   → Scalable full-stack architectures                   │
-│   → System design                                       │
-│   → Developer experience                                │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
