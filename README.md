@@ -21,6 +21,7 @@
 </p>
 
 ---
+<p align="center">
 
 ## Frontend Developer by Logic, Artist by Heart
 
@@ -35,6 +36,7 @@ My sweet spot is **frontend-heavy full-stack development** — building polished
 - 🔌 Designing REST APIs and integrating third-party services
 - 🚀 Deploying and maintaining full-stack applications
 - 🧩 Exploring system design, architecture and scalable applications
+  </p>
 
 ---
 
@@ -63,15 +65,6 @@ My sweet spot is **frontend-heavy full-stack development** — building polished
 </p>
 
 ---
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shagun101pareek&theme=react-dark"
-    width="95%"
-  />
-</p>
 
 ## GitHub Streak
 
