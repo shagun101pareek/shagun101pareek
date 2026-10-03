@@ -1,21 +1,127 @@
 <h1 align="center">Hi 👋, I'm Shagun Pareek</h1>
-<h3 align="center">A frontend developer by logic, an artist by heart.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_h4Sz6rPhDM10Yii0oE_N_R3oH6EhmKR_vMg83tMe3Z3FbWWzXez6lnjRC5ItR6sF8U&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun101pareek&label=Profile%20views&color=0e75b6&style=flat" alt="shagun101pareek" /> </p>
+<h3 align="center">
+  Frontend-Heavy Full Stack Developer · React · Next.js · Node.js
+</h3>
 
-- 💬 Ask me about **React, Next.js, MongoDB, Express.js, PostgreSQL**
-
-- 📫 How to reach me **shagunpareek2421@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shagunpareek777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shagunpareek777" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shagun_pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shagun_pareek" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:shagunpareek2421@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-shagunpareek2421%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shagunpareek777">
+    <img src="https://img.shields.io/badge/LINKEDIN-Shagun%20Pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shagun_pareek/">
+    <img src="https://img.shields.io/badge/LEETCODE-shagun__pareek-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shagun101pareek&show_icons=true&locale=en&layout=compact" alt="shagun101pareek" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shagun101pareek&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shagun101pareek&show_icons=true&locale=en" alt="shagun101pareek" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagun101pareek&" alt="shagun101pareek" /></p>
+## Frontend Developer by Logic, Artist by Heart
+
+I enjoy turning ideas into clean, interactive and scalable digital products.
+
+My sweet spot is **frontend-heavy full-stack development** — building polished interfaces while understanding what happens behind the scenes.
+
+- ⚛️ Building with **React & Next.js**
+- 🟢 Developing APIs with **Node.js & Express**
+- 🗄️ Working with **MongoDB & PostgreSQL**
+- 🎨 Creating clean, responsive and interactive interfaces
+- 🔌 Designing REST APIs and integrating third-party services
+- 🚀 Deploying and maintaining full-stack applications
+- 🧩 Exploring system design, architecture and scalable applications
+
+---
+
+## Projects
+
+| Project | What I built |
+| :--- | :--- |
+| **[ForgeFlow](#)** | AI-powered product development platform for generating, editing and previewing applications |
+| **[Blabberly](#)** | Real-time messaging platform built with React, Node.js, MongoDB and Socket.IO |
+| **[Store Rating Platform](#)** | Full-stack store rating application using React, TypeScript, Express, Prisma and PostgreSQL |
+| **[Pokedex Lite](#)** | Responsive Pokémon explorer using React, TypeScript, Tailwind CSS and PokeAPI |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shagun101pareek&show_icons=true&hide_border=true&theme=radical&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun101pareek&layout=compact&hide_border=true&theme=radical"
+    height="180"
+  />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shagun101pareek&theme=react-dark&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shagun101pareek&theme=radical&hide_border=true"
+    width="70%"
+  />
+</p>
+
+---
+
+## Contribution Summary
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagun101pareek&theme=radical"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shagun101pareek&theme=radical"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shagun101pareek&theme=radical"
+    width="45%"
+  />
+</p>
+
+---
+
+## Currently Building
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Building products that sit at the intersection of     │
+│                                                         │
+│        Design  ×  Engineering  ×  AI                    │
+│                                                         │
+│   Currently exploring:                                  │
+│                                                         │
+│   → AI-powered developer tools                           │
+│   → Scalable full-stack architectures                   │
+│   → System design                                       │
+│   → Developer experience                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
