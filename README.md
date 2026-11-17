@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shagun Pareek</h1>
+# Hi 👋, I'm Shagun Pareek
 
-<h3 align="center">
-  Frontend-Heavy Full Stack Developer · React · Next.js · Node.js
-</h3>
+### Full Stack Developer · React · Next.js · Node.js · Go
 
 <p align="center">
   <a href="mailto:shagunpareek2421@gmail.com">
@@ -21,22 +19,40 @@
 </p>
 
 ---
-<p align="center">
 
-## Frontend Developer by Logic, Artist by Heart
+## Full Stack Developer, Building Scalable Products & Exploring AI
 
-I enjoy turning ideas into clean, interactive and scalable digital products.
+I enjoy turning ideas into reliable, scalable and interactive digital products. My work spans the entire development lifecycle — from crafting intuitive frontend experiences to building robust backend systems, APIs and integrations.
 
-My sweet spot is **frontend-heavy full-stack development** — building polished interfaces while understanding what happens behind the scenes.
+My focus areas include:
 
-- ⚛️ Building with **React & Next.js**
-- 🟢 Developing APIs with **Node.js & Express**
-- 🗄️ Working with **MongoDB & PostgreSQL**
-- 🎨 Creating clean, responsive and interactive interfaces
-- 🔌 Designing REST APIs and integrating third-party services
-- 🚀 Deploying and maintaining full-stack applications
-- 🧩 Exploring system design, architecture and scalable applications
-  </p>
+- ⚛️ Building modern web applications with **React.js, Next.js and TypeScript**
+- 📱 Developing cross-platform applications using **React Native and Expo**
+- ⚙️ Building backend services and REST APIs with **Node.js, Express.js and Go**
+- 🗄️ Designing and working with **MongoDB, PostgreSQL, MySQL and SQLite**
+- 🔌 Integrating third-party services, GraphQL APIs and WebSocket-based systems
+- 🤖 Exploring AI-powered applications using **OpenAI, Gemini APIs, MCP and LLM workflows**
+- 🔄 Automating workflows with **n8n, CRM integrations and structured data processing**
+- 🐳 Working with **Docker, GitHub Actions, CI/CD and AWS**
+- 🧩 Exploring system design, backend architecture and scalable application development
+
+---
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, TypeScript, SQL, C/C++
+
+**Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Redux Toolkit
+
+**Backend:** Node.js, Express.js, Go, RESTful APIs, GraphQL, WebSockets, JWT Authentication, Prisma ORM
+
+**Databases:** MongoDB, PostgreSQL, MySQL, SQLite
+
+**DevOps & Cloud:** Git, GitHub, GitHub Actions, Docker, Linux, AWS, Firebase, CI/CD
+
+**Tools & Integrations:** n8n, TeleCRM, Interakt WhatsApp API, Android Studio, Expo, Sandpack
+
+**AI & Data:** OpenAI APIs, Gemini APIs, LLM Workflows, Structured Data Processing
 
 ---
 
@@ -44,10 +60,10 @@ My sweet spot is **frontend-heavy full-stack development** — building polished
 
 | Project | What I built |
 | :--- | :--- |
-| **[ForgeFlow](#)** | AI-powered product development platform for generating, editing and previewing applications |
-| **[Blabberly](#)** | Real-time messaging platform built with React, Node.js, MongoDB and Socket.IO |
-| **[Store Rating Platform](#)** | Full-stack store rating application using React, TypeScript, Express, Prisma and PostgreSQL |
-| **[Pokedex Lite](#)** | Responsive Pokémon explorer using React, TypeScript, Tailwind CSS and PokeAPI |
+| **[ForgeFlow](#)** | AI-powered prompt-to-code platform that transforms natural-language requirements into multi-page React applications with live previews. |
+| **[Blabberly](#)** | Full-stack real-time messaging platform built with the MERN stack, WebSockets, JWT authentication, Docker and CI/CD. |
+| **[Store Rating Platform](#)** | Full-stack store rating application using React, TypeScript, Express, Prisma and PostgreSQL. |
+| **[Pokedex Lite](#)** | Responsive Pokémon explorer built using React, TypeScript, Tailwind CSS and PokeAPI. |
 
 ---
 
@@ -96,5 +112,4 @@ My sweet spot is **frontend-heavy full-stack development** — building polished
     width="45%"
   />
 </p>
-
----
+</p>
